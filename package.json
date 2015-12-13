@@ -1,0 +1,22 @@
+{
+  "name": "pim",
+  "version": "1.0.0",
+  "description": "Raspberry PI 2 Media Center",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sergiu-paraschiv/pim.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sergiu-paraschiv/pim/issues"
+  },
+  "homepage": "https://github.com/sergiu-paraschiv/pim#readme",
+  "dependencies": {
+    "nodecec": "0.0.3"
+  }
+}
